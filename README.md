@@ -6,7 +6,20 @@ The list of projects include :
   
   1)Restnet50 from strach in tensforflow
   
-  2)Image Classification on flower Dataset using pytorch and Transfer learing
+  A ) CNN Projects :
+      
+      i)   Style Transfer
+      ii)  Face Verification 
+      iii) Object Detection
   
-  3)
+  B)  RNN Projects :
   
+      i) Sentimental Analysis
+      
+      ii) Trigger word Detection
+      
+      
+   C) Gan Projects :
+   
+      i) Basic Gans for creating MINST data
+      ii) Deep Convolution Gan for SHVN data  
