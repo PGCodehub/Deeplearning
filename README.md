@@ -4,7 +4,7 @@ This repository has all the diiferent projects i made during learning about Deep
 
 The list of projects include :
   
-  1)Restnet50 from strach in tensforflow
+  1)Restnet50 from scartch in tensorflow
   
   A ) CNN Projects :
       
