@@ -1,6 +1,9 @@
 # Deeplearning
 This repository has all the diiferent projects i made during learning about Deep neural Networks 
 
+Note that only baseline code is provided here , projects are further advanced specific to problem
+and deployed on requested platform by clients
+
 
 The list of projects include :
   
