@@ -12,7 +12,7 @@ The list of projects include :
   A ) CNN Projects :
       
       i)   Style Transfer
-      ii)  Face Verification 
+      ii)  Face Verification and Recognition
       iii) Object Detection
   
   B)  RNN Projects :
