@@ -25,4 +25,4 @@ The list of projects include :
    C) Gan Projects :
    
       i) Basic Gans for creating MINST data
-      ii) Deep Convolution Gan for SHVN data  
+      ii) Semi-supervised learning with deep Convolution Gan for SHVN data  
